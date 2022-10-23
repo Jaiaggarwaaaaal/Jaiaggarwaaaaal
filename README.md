@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jaiaggarwaaaaal
+- 👋 Hi, I’m @Jaiaggarwal
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning amazing things
-- 💞️ I’m looking to collaborate on contribution
+- 🌱 I’m currently working on amazing projects
+- 💞️ I’m looking to collaborate
 - 📫 To reach me message on my twitter handle @Jai24651104 
 
 <!---
